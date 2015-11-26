@@ -52,18 +52,13 @@
     "category":"programming"
   },
   {
-    "word":"php",
-    "shortname":"php",
-    "category":"programming"
-  },
-  {
     "word":"C",
-    "shortname":"C",
+    "shortname":"c",
     "category":"programming"
   },
   {
     "word":"C++",
-    "shortname":"C++",
+    "shortname":"c++",
     "category":"programming"
   },
   {
