@@ -1,0 +1,14 @@
+<section class="wordinfo">
+  <div class="word cf" ng-model="words">
+    <a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
+    <a href="#/details/{{nextItem}}" class="btn btn-right">&gt;</a>
+    <h1>{{words[whichItem].name}}</h1>
+    <div class="info">
+      <h3>{{words[whichItem].word}}</h3>
+       <h3>{{artists[whichItem].reknown}}</h3>
+      <img ng-src="images/{{words[whichItem].shortname}}.jpg" alt="Photo of {{words[whichItem].word}}">
+      <div class="short">{{words[whichItem].short}}</div>
+    </div>
+  </div>
+  <a href="index.html">&laquo; Back to search</a>
+</section>

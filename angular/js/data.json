@@ -1,0 +1,103 @@
+[
+  {
+    "word":"node js",
+    "category":"server",
+    "shortname":"node-js",
+    "short": "https://nodejs.org/en"
+   
+  },
+  {
+    "word":"Apache",
+    "shortname":"apache",
+    "category":"server"
+  },
+  {
+    "word":"Xampp",
+    "shortname":"xampp",
+    "category":"server"
+  },
+  {
+    "word":"Nginx",
+    "shortname":"nginx",
+    "category":"server"
+  },
+  {
+    "word":"html",
+    "shortname":"html",
+    "category":"web design"
+  },
+  {
+    "word":"css",
+    "shortname":"css",
+    "category":"web design"
+  },
+  {
+    "word":"Font",
+    "shortname":"font",
+    "category":"web design"
+  },
+  {
+    "word":"Logo",
+    "shortname":"logo",
+    "category":"web design"
+  },
+  {
+    "word":"Java Script",
+    "shortname":"java-script",
+    "category":"programming"
+  },
+  {
+    "word":"php",
+    "shortname":"php",
+    "category":"programming"
+  },
+  {
+    "word":"php",
+    "shortname":"php",
+    "category":"programming"
+  },
+  {
+    "word":"C",
+    "shortname":"C",
+    "category":"programming"
+  },
+  {
+    "word":"C++",
+    "shortname":"C++",
+    "category":"programming"
+  },
+  {
+    "word":"Ruby",
+    "shortname":"ruby",
+    "category":"programming"
+  },
+  {
+    "word":"Go",
+    "shortname":"go",
+    "category":"programming"
+  },
+  {
+    "word":"R",
+    "shortname":"R",
+    "category":"programming"
+  },
+  {
+    "word":"Pascal",
+    "shortname":"pascal",
+    "category":"programming"
+  },
+  {
+    "word":"assembly",
+    "shortname":"assembly",
+    "category":"programming"
+  },
+  
+
+
+
+
+
+
+
+
+]
